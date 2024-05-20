@@ -1,1 +1,1 @@
-Salefaster Eazy Repo
+Salefaster Eazy Repo v1
