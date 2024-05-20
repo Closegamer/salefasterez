@@ -20,10 +20,12 @@ export default function App({ Component, pageProps }: AppProps) {
             <Head children={
                 <>
                     <title>SaleFaster MarketPlace</title>
-                    <link rel="icon" href="/img/favicon.png" type="image/x-icon" />
-                    <link href="https://pro.fontawesome.com/releases/v6.0.0-beta1/css/all.css" rel="stylesheet" />
+                    <link rel="icon" href="/img/favicon.png" type="image/x-icon"/>
+                    <link href="https://pro.fontawesome.com/releases/v6.0.0-beta1/css/all.css" rel="stylesheet"/>
+                    <meta name="yandex-verification" content="45fad67d334210f5"/>
+                    <meta name="yandex-verification" content="2933eeb57fc7ec7a"/>
                 </>
-            } />
+            }/>
             <Script id="metrika-counter" strategy="afterInteractive">
                 {`(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
     m[i].l=1*new Date();
